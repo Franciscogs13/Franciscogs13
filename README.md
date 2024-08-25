@@ -44,11 +44,6 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Franciscogs13/count.svg?"  />
-</div>
-
-###
 <img src="https://raw.githubusercontent.com/Franciscogs13/Franciscogs13/output/snake.svg" alt="Snake animation" />
 
 ###
