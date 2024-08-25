@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/<Franciscogs13>/<Franciscogs13>/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/Franciscogs13/Franciscogs13/output/snake.svg" alt="Snake animation" />
 
 ###
